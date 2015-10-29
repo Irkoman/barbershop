@@ -1,1 +1,1 @@
-Привет
+Training project at HTML Academy

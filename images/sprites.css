@@ -1,0 +1,64 @@
+.form_checkbox_checked, .form_radio_checked, .icon_facebook, .icon_facebook_hover, .icon_instagram, .icon_instagram_hover, .icon_login, .icon_vk, .icon_vk_hover, .icon-login-hover{
+	background: url(sprites.png) no-repeat;
+}
+
+.form_checkbox_checked{
+	background-position: -323px -7px ;
+	width: 12px;
+	height: 12px;
+}
+
+.form_radio_checked{
+	background-position: -295px -1px ;
+	width: 20px;
+	height: 20px;
+}
+
+.icon_facebook{
+	background-position: -249px 0;
+	width: 33px;
+	height: 23px;
+}
+
+.icon_facebook_hover{
+	background-position: -194px -1px ;
+	width: 33px;
+	height: 23px;
+}
+
+.icon_instagram{
+	background-position: -149px -2px ;
+	width: 33px;
+	height: 23px;
+}
+
+.icon_instagram_hover{
+	background-position: -98px -1px ;
+	width: 33px;
+	height: 23px;
+}
+
+.icon_login{
+	background-position: -344px -4px ;
+	width: 18px;
+	height: 16px;
+}
+
+.icon_vk{
+	background-position: -50px -1px ;
+	width: 33px;
+	height: 23px;
+}
+
+.icon_vk_hover{
+	background-position: 0 -1px ;
+	width: 33px;
+	height: 23px;
+}
+
+.icon-login-hover{
+	background-position: -370px -4px ;
+	width: 18px;
+	height: 16px;
+}
+
